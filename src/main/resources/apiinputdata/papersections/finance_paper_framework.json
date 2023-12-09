@@ -1,0 +1,82 @@
+{
+  "CONTEXT_ID": {
+    "id": "CONTEXT_ID",
+    "type": "CONTEXT",
+    "heading": "",
+    "paperSectionId": null,
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Recap the primary metrics that you are focused on, from the perspective of both value creation and solvency/liquidity (ideally fewer than 5 metrics). Then, recap the short and long-term goals.]\"}]}]}",
+    "position": "a0",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "INPUT_SOUGHT_ID": {
+    "id": "INPUT_SOUGHT_ID",
+    "type": "INPUT_SOUGHT",
+    "heading": "",
+    "paperSectionId": null,
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Specify any decision(s) and/or advice sought from this forum.]\"}]}]}",
+    "position": "a0",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "SECTION_ID_1": {
+    "id": "SECTION_ID_1",
+    "type": "PAPER",
+    "heading": "",
+    "paperSectionId": null,
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":1},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"textColor\",\"attrs\":{\"color\":\"blue\"}}],\"text\":\"1. Financial Value Creation: what is the status and outlook?\"}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"1.1. Have we created financial value as planned?\"}]},{\"type\":\"paragraph\",\"attrs\":{\"align\":\"\"},\"content\":[{\"type\":\"text\",\"text\":\"[Given the truest measure(s) of value creation for your business recap, performance vs. plan both YTD and in period:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"\"},\"content\":[{\"type\":\"text\",\"text\":\"Draw out the materiality of any variance - is it noise or is it meaningful?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"\"},\"content\":[{\"type\":\"text\",\"text\":\"Explain what caused this variance and highlight implications\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"\"},\"content\":[{\"type\":\"text\",\"text\":\"Outline the actions you are taking in response.]\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"1.2. What has driven this performance - from a sales, cost and capex perspective?\"}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Top line performance: how has the top line performed vs. plan?\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Draw out the materiality of any variance - is it noise or is it meaningful?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Explain what caused this variance and highlight implications\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Outline the actions you are taking in response.]\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Cost management: has the business managed costs as planned?\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Draw out the materiality of any variance - is it noise or is it meaningful?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Explain what caused this variance and highlight implications\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Outline the actions you are taking in response.]\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Capital Expenditure: Has the business managed capex as planned?\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Draw out the materiality of any variance - is it noise or is it meaningful?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Explain what caused this variance and highlight implications\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Outline the actions you are taking in response.]\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"1.3. What has driven this performance - from a business line perspective?\"}]},{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Explain how different segments of your business (e.g. products, regions, teams) have contributed to this performance:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Draw out the materiality of any variance - is it noise or is it meaningful?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Explain what caused this variance and highlight implications\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Outline the actions you are taking in response.]\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"1.4. Overall, what is the outlook?\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[What is your level of confidence in achieving your full-year plan?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"What opportunities and risks are on your mind?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"What are the implications and what is the business doing in response?]\"}]}]}]}]}",
+    "position": "a1",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "SECTION_ID_2": {
+    "id": "SECTION_ID_2",
+    "type": "PAPER",
+    "heading": "",
+    "paperSectionId": null,
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":1},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"textColor\",\"attrs\":{\"color\":\"blue\"}}],\"text\":\"2. Cash: what is the status and outlook?\"}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"2.1. Have we generated cash as planned?\"}]},{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Highlight any variance in your net cash position vs. plan:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Draw out the materiality of any variance - is it noise or is it meaningful?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Explain what caused this variance and highlight implications\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Outline the actions you are taking in response.]\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"2.2. What does this mean for our solvency metrics?\"}]},{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[State if any solvency metrics/covenants are at risk, or confirm their health.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Highlight (as relevant) the status of your: interest cover, gearing vs. plan or policy, credit ratings, and their outlook.\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Draw out the materiality of any variance - is it noise or is it meaningful?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Explain what caused this variance and highlight implications\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Outline the actions you are taking in response.]\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"2.3. Do we have the financing we need?\"}]},{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Briefly recap our financing plan and confidence in it.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Highlight any changes in our financing outlook and what has driven this across: net cash flow outlook, access and cost of capital and funding requirements.\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Draw out the materiality of any variance - is it noise or is it meaningful?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Explain what caused this variance and highlight implications\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Outline the actions you are taking in response.]\"}]}]}]},{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"2.4. Overall, what is the outlook?\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[What is your level of confidence in achieving your full-year plan?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"What opportunities and risks are on your mind?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"What are the implications and what is the business doing in response?]\"}]}]}]}]}",
+    "position": "a2",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "SECTION_ID_3": {
+    "id": "SECTION_ID_3",
+    "type": "PAPER",
+    "heading": "",
+    "paperSectionId": null,
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":1},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"textColor\",\"attrs\":{\"color\":\"blue\"}}],\"text\":\"3. What else is on my mind?\"}]},{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Is anything on your mind that might cause the organisation to run out of cash or that is not clearly visible from the numbers, that the forum should be aware of?\"}]},{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"If yes, consider:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"How likely does it feel?\"}]}]},{\"type\":\"listItem\",\"attrs\":{\"closed\":false,\"nested\":false},\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Is there anything we should be doing to monitor or mitigate against it?]\"}]}]}]}]}",
+    "position": "a3",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "QUESTION_ANSWER_ID_1": {
+    "id": "QUESTION_ANSWER_ID_1",
+    "type": "QUESTION_ANSWER",
+    "heading": "",
+    "paperSectionId": "SECTION_ID_1",
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Summarise your answer to the section question.]\"}]}]}",
+    "position": "a1",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "QUESTION_ANSWER_ID_2": {
+    "id": "QUESTION_ANSWER_ID_2",
+    "type": "QUESTION_ANSWER",
+    "heading": "",
+    "paperSectionId": "SECTION_ID_2",
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Summarise your answer to the section question.]\"}]}]}",
+    "position": "a2",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "QUESTION_ANSWER_ID_3": {
+    "id": "QUESTION_ANSWER_ID_3",
+    "type": "QUESTION_ANSWER",
+    "heading": "",
+    "paperSectionId": "SECTION_ID_3",
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"[Summarise your answer to the section question.]\"}]}]}",
+    "position": "a3",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  }
+}

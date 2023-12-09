@@ -1,0 +1,42 @@
+{
+  "CONTEXT_ID": {
+    "id": "CONTEXT_ID",
+    "type": "CONTEXT",
+    "heading": "",
+    "paperSectionId": null,
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"}}]}",
+    "position": "a0",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "QUESTIONS_TO_READER_ID": {
+    "id": "QUESTIONS_TO_READER_ID",
+    "type": "QUESTIONS_TO_READER",
+    "heading": "",
+    "paperSectionId": null,
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"}}]}",
+    "position": "a0",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "SECTION_ID_1": {
+    "id": "SECTION_ID_1",
+    "type": "PAPER",
+    "heading": "",
+    "paperSectionId": null,
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"align\":\"left\",\"level\":1}}]}",
+    "position": "a0",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  },
+  "QUESTION_ANSWER_ID_1": {
+    "id": "QUESTION_ANSWER_ID_1",
+    "type": "QUESTION_ANSWER",
+    "heading": "",
+    "paperSectionId": "SECTION_ID_1",
+    "document": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"align\":\"left\"}}]}",
+    "position": "a0",
+    "prosemirrorDocumentVersion": 0,
+    "paperId": "PAPER_ID"
+  }
+}
