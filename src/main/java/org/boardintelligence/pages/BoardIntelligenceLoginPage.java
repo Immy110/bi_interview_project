@@ -37,7 +37,7 @@ public class BoardIntelligenceLoginPage extends LightningComponent {
     
     public void clickOnLogin()
     {
-    	//clickElement(Login);
+    	clickElement(Login);
     }
     
     public void clickOnLuciaLogin()
